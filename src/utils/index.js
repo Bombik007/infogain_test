@@ -1,0 +1,1 @@
+export { getBonusPoints } from "./getBonusPoints";
